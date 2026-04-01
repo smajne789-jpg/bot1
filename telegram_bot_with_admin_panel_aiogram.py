@@ -1,6 +1,6 @@
 # Telegram Bot with Admin Panel (aiogram)
 # Works on BotHost.ru
-
+raise Exception("force rebuild")
 import asyncio
 import logging
 import sqlite3
